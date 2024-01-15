@@ -12,4 +12,4 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: cloc
-        uses: maxfie1d/actions-cloc@v1
+        uses: maxfie1d/actions-cloc@v1.1.0
